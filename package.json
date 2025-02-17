@@ -1,0 +1,21 @@
+{
+  "name": "wordcloud-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node wordcloud.js",
+    "dev": "nodemon wordcloud.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.5",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "nodemon": "^3.1.4",
+    "path": "^0.12.7",
+    "process": "^0.11.10"
+  }
+}

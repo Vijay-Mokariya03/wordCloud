@@ -1,0 +1,5 @@
+and       24       Huge
+was       19       Big
+her       8       Normal
+asd       6       Small
+had       5       Small
